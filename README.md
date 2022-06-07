@@ -1,6 +1,8 @@
 ## Laravel Boilerplate (Current: Laravel 9.*) ([Demo](https://demo.laravel-boilerplate.com))
 <br/>
-### All credit goes to original author!
+
+### All credit goes to original author
+
 <br/>
 [![StyleCI](https://styleci.io/repos/30171828/shield?style=plastic)](https://github.styleci.io/repos/30171828)
 ![Tests](https://github.com/rappasoft/laravel-boilerplate/workflows/Tests/badge.svg?branch=master)
